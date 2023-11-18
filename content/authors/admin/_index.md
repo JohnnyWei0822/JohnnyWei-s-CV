@@ -3,7 +3,7 @@
 title: 魏世俊
 
 # Name pronunciation (optional)
-name_pronunciation: Shi Jun Wei
+name_pronunciation: Wei Shi Jun
 
 # Full name (for SEO)
 first_name: Johnny
@@ -54,7 +54,7 @@ skills:
       - name: C
         description: ''
         percent: 80
-        icon: python
+        icon: c
         icon_pack: fab
       - name:  BIM
         description: ''

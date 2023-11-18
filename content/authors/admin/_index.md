@@ -29,9 +29,9 @@ bio: My research interests include BIM, Smart Construction Digital twin，Intell
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Digital Twin
+  - Smart Construction Management
+  - BIM
 
 # Education to show in About widget
 education:

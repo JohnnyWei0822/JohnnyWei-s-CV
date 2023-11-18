@@ -6,7 +6,7 @@ title: 魏世俊
 name_pronunciation: Shi Jun Wei
 
 # Full name (for SEO)
-first_name: Shi Jun
+first_name: Johnny
 last_name: Wei
 
 # Status emoji
@@ -21,11 +21,11 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shijiazhuang Tiedao University
+    url: https://www.stdu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include BIM, Smart Construction Digital twin，Intelligent monitoring.
 
 # Interests to show in About widget
 interests:

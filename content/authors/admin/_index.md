@@ -54,12 +54,12 @@ skills:
       - name: C
         description: ''
         percent: 80
-        icon: C
+        icon: python
         icon_pack: fab
       - name:  BIM
         description: ''
         percent: 100
-        icon: BIM
+        icon: chart-line
         icon_pack: fas
       - name: SQL
         description: ''

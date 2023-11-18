@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 魏世俊
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Shi Jun Wei
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shi Jun
+last_name: Wei
 
 # Status emoji
 status:

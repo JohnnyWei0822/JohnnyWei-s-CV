@@ -51,15 +51,15 @@ education:
 skills:
   - name: Technical
     items:
-      - name: C + +
+      - name: C
         description: ''
         percent: 80
-        icon: c++
+        icon: C
         icon_pack: fab
-      - name: Data Science
+      - name:  BIM
         description: ''
         percent: 100
-        icon: chart-line
+        icon: BIM
         icon_pack: fas
       - name: SQL
         description: ''

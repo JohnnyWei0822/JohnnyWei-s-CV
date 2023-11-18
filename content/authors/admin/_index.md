@@ -51,10 +51,10 @@ education:
 skills:
   - name: Technical
     items:
-      - name: C++
+      - name: C + +
         description: ''
         percent: 80
-        icon: C++
+        icon: c++
         icon_pack: fab
       - name: Data Science
         description: ''

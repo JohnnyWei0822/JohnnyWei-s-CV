@@ -97,7 +97,7 @@ social:
   - icon: zhihu
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    label: Follow me on zhihu
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -106,9 +106,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
+  - icon: bilibili
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://space.bilibili.com/285377630?spm_id_from=333.1007.0.0
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
